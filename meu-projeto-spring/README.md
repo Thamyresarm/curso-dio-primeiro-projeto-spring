@@ -15,6 +15,6 @@ ex.: meu-projeto-spring
 ### Description
 Escrever a descrição desejada
 
-### Packege Name
+### Package Name
 é preenchido de forma automática
 
