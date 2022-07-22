@@ -14,6 +14,12 @@ public class AppController {
     private String dbEnvironmentVariable;
 
     @GetMapping("/")
+<<<<<<< HEAD
+    public String getAppMessage(){
+        return appMessage;
+    }
+}
+=======
     public String getAppMessage() {
         return appMessage;
     }
@@ -24,3 +30,4 @@ public class AppController {
     }
 }
 
+>>>>>>> 39a5fb899ae95c3dd9d7ea1f8186afccd4dbb866
