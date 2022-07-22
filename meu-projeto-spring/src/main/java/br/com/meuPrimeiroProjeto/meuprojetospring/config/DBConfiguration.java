@@ -1,4 +1,4 @@
-package br.com.meuPrimeiroProjeto.meuprojetospring.controller;
+package br.com.meuPrimeiroProjeto.meuprojetospring.config;
 
 import lombok.Getter;
 import lombok.Setter;
